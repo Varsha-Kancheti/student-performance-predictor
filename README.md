@@ -65,3 +65,6 @@ http://127.0.0.1:5000
 
 ## Author
 Varsha Vishnu Sai Kancheti
+ ## Project Screenshot
+
+![Project Screenshot](screenshot.png)
