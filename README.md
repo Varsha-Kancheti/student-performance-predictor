@@ -67,4 +67,6 @@ http://127.0.0.1:5000
 Varsha Vishnu Sai Kancheti
  ## Project Screenshot
 
-![Project Screenshot](screenshot.png)
+<img width="1889" height="896" alt="screenshot png" src="https://github.com/user-attachments/assets/33ccec11-6cad-43e7-9547-761d36074b91" />
+
+
